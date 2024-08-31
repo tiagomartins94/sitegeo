@@ -10,13 +10,14 @@
 .form-control.input {
   border: 0;
   background: transparent;
-  border-bottom: 1px solid silver;
+  border-bottom: 2px solid silver;
   border-radius: 0px !important;
+  color: white;
 }
 
 .getintouch {
   height: auto;
-  background-image: url("../../assets/img/Get%20In%20touch/GetInTouch.png");
+  background-color: rgb(39,38,46);
   background-size: cover;
   background-repeat: no-repeat;
 }
